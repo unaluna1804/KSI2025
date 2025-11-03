@@ -55,7 +55,7 @@
 
     <!-- Footer -->
     <footer class="bg-dark text-white text-center py-3">
-        <p>© 2025 KSI Project by Bunga</p>
+        <p>© 2025 KSI Project by Bunga</p> echo "<?php echo 'Program utama'; ?>
     </footer>
 
 </body>
